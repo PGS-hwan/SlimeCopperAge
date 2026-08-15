@@ -1,0 +1,16 @@
+name: SlimeCopperAge
+main: com.github.hwan.slimecopperage.SlimeCopperAge
+author: Hwan
+version: ${project.version}
+api-version: '1.21.9'
+depend: [Slimefun]
+softdepend: [ExtraGear]
+commands:
+  sca:
+    description: Reloads SlimeCopperAge configuration.
+    usage: /sca reload
+    permission: slimecopperage.reload
+permissions:
+  slimecopperage.reload:
+    description: Allows reloading SlimeCopperAge configuration.
+    default: op

@@ -1,0 +1,8 @@
+plugin-version: "<gray>Plugin version - <aqua>{version}"
+server-version: "<gray>Server version - <aqua>{version}"
+language-fallback: "<yellow>Language file <white>{language}<yellow> was not found; using <white>en-us."
+items-replaced: "<green>Replaced <white>{count}<green> same-ID copper Slimefun items with vanilla items."
+recipe-references-replaced: "<green>Replaced <white>{count}<green> copper recipe references."
+config-reloaded: "<green>SlimeCopperAge configuration and language file reloaded."
+no-permission: "<red>You do not have permission to run this command."
+command-usage: "<yellow>Usage: <white>/sca reload"

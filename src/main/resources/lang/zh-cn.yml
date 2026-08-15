@@ -1,0 +1,8 @@
+plugin-version: "<gray>插件版本 - <aqua>{version}"
+server-version: "<gray>游戏服务端版本 - <aqua>{version}"
+language-fallback: "<yellow>未找到语言文件 <white>{language}<yellow>，已使用 <white>en-us"
+items-replaced: "<green>已替换 <white>{count}<green> 个同名铜制 Slimefun 物品为原版物品"
+recipe-references-replaced: "<green>已替换 <white>{count}<green> 个铜制配方引用"
+config-reloaded: "<green>SlimeCopperAge 配置与语言文件已重载。"
+no-permission: "<red>你没有执行此命令的权限。"
+command-usage: "<yellow>用法: <white>/sca reload"

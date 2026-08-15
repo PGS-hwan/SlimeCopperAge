@@ -1,0 +1,11 @@
+version: 1.0.0
+
+lang: zh-cn
+# Message formatting mode: classic (& color codes), minimessage (<color> tags), or mixed (both).
+message-format: minimessage
+
+# IDs listed here only have their output changed to the corresponding vanilla material.
+# Their use as an ingredient in other Slimefun recipes is retained.
+only-replace-textures: []
+# IDs listed here are not changed at all.
+banned-items: []
